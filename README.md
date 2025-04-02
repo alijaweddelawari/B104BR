@@ -8,12 +8,12 @@ Among the tested models, Gradient Boosting emerged as the best-performing algori
 
 Data Preprocessing: Cleaning and transforming raw data
 Exploratory Data Analysis (EDA): Identifying key patterns and insights
-Model Training & Hyperparameter Tuning: Testing multiple algorithms and optimizing them
+Model Training and Hyperparameter Tuning: Testing multiple algorithms and optimizing them
 Feature Importance Analysis: Identifying the most influential factors for startup success
 Model Exporting: Saving the trained model for future use
 📊 Dataset
 
-The dataset includes key business metrics such as R&D spending, marketing budgets, and operational costs, which were analyzed to determine their impact on startup success.
+The dataset includes key business metrics such as R and D spending, marketing budgets, and operational costs, which were analyzed to determine their impact on startup success.
 
 ⚙️ Installation & Setup
 
